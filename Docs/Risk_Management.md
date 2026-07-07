@@ -193,7 +193,7 @@ Continue until a successful trade resets progression.
 
 # Progression Reset
 
-The progression resets only when a winning trade reaches the strategy-defined successful outcome.
+The progression resets only when a trade reaches 2.5R or higher without first being stopped out.
 
 Losing trades continue the progression.
 
